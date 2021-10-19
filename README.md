@@ -1,6 +1,11 @@
 # Android期末作品说明文档
 
 ### 嘀哩嘀哩 原型
+![image](https://user-images.githubusercontent.com/71578480/137848493-1198b746-dbc8-44b6-8b49-2fdfeaaf39a2.png)
+![image](https://user-images.githubusercontent.com/71578480/137848549-b547c2b8-790e-4146-99f2-2f845e9ed388.png)
+![image](https://user-images.githubusercontent.com/71578480/137848605-456f4865-17e6-45e4-9a30-dee5bdaaf44a.png)
+![image](https://user-images.githubusercontent.com/71578480/137848637-2942f923-c9b0-45d8-a813-90f90817f32e.png)
+
 
 # 1. 设计数据库
 
